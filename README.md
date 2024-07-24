@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jhorn-spec
-- 👀 I’m a Machine Learning and AI Enthusiast 
-- 🌱 I’m currently learning ML and AI
+- 👀 Machine Learning and Ai Research Engineer 
+- 🌱 Passionate about being updated with current concepts
 - 💞️ I’m looking to collaborate on these 
-- 📫 Connect with me
+- 📫 Looking to build your model - Connect with me
   LinkedIn @ https://www.linkedin.com/in/jhorn-ai
   Twitter @John_Bajots
 
