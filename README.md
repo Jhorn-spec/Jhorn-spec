@@ -18,7 +18,7 @@
 - **Languages**: Python, Bash  
 - **Libraries/Frameworks**: Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, OpenCV  
 - **Tools**: Git, GitHub, Jupyter, VS Code, Google Colab  
-- **Cloud**: Google Cloud, AWS (basic usage), Hugging Face  
+- **Cloud**: Google Cloud, AWS, Hugging Face  
 - **Others**: Markdown, Shell scripting
 
 ---
